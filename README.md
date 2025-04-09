@@ -60,6 +60,7 @@ Each day will have a dedicated folder with:
 Hi! I'm **Samarajit Mane**, a BCA student and cybersecurity enthusiast focused on SOC, blue teaming, and threat detection.  
 This challenge is part of my continuous journey to master cybersecurity skills and build a strong portfolio.
 
+![image](intro.gif)
 ---
 
 ## 📅 Challenge Timeline
