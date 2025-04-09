@@ -4,6 +4,8 @@ Welcome to my **30-Day SOC Analyst Challenge**! 👨‍💻
 
 In this repository, I will be documenting and sharing the **daily practical tasks, tools, techniques, and knowledge** I gain while simulating the real-world responsibilities of a **SOC (Security Operations Center) Analyst**.
 
+![image](banner.gif)
+
 ---
 
 ## 🔍 What is this Challenge About?
