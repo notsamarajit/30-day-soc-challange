@@ -84,8 +84,8 @@ Feel free to fork this repo and try the challenge yourself. Let’s level up tog
 You can connect with me on:
 
 - GitHub:  [@notsamarajit](https://github.com/notsamarajit)
-- LinkedIn: [https://linkedin.com/samarajit01]
-- Twitter/x: [https://x.com/jupiter_des]
+- LinkedIn: [click here](https://www.linkedin.com/in/samarajit01/)
+- Twitter/x: [click here](https://x.com/jupiter_des)
 
 ---
 
