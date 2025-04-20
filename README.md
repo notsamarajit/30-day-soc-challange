@@ -45,13 +45,12 @@ Each day will have a dedicated folder with:
 
 ## 🧰 Tools & Technologies I’ll Be Using
 
-- SIEM Platforms (Splunk, Google Chronicle)
+- ELK Stack 
 - Wireshark, Sysmon, Zeek
 - Sigma & YARA rules
 - MITRE ATT&CK Framework
 - Threat Intelligence sources
 - Windows Event Logs
-- ELK Stack (optional)
 
 ---
 
